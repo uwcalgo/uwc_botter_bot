@@ -1,2 +1,4 @@
 botter.ini
+botter_state.json
+*.pyc
 .venv/
